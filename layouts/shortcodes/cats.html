@@ -1,0 +1,13 @@
+    
+<ul>
+		{{ $files := readDir "content/cats" }}
+
+		{{ range $name := $files }}
+		{{ $file := .Name }}
+		<li>
+			<a href="{{  $file }}" >{{ path.Base $file }}</a>
+		</li>
+		{{end}}
+</ul>
+
+

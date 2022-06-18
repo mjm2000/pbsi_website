@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pioneer Blockchain Solutions</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Pioneer Blockchain Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buy all your miners equitment</title>
+      <link>http://example.org/shop/</link>
+      <pubDate>Wed, 31 Dec 1969 20:06:40 -0500</pubDate>
+      
+      <guid>http://example.org/shop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
